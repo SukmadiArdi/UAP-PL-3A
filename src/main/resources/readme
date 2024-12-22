@@ -4,7 +4,7 @@
 
 Program ini adalah aplikasi berbasis Java yang digunakan untuk mengelola data pelanggan dan mobil. Aplikasi ini memiliki dua bagian utama: **Manajemen Pelanggan (Customer Management)** dan **Manajemen Mobil (Car Management)**. Aplikasi ini memungkinkan pengguna untuk menambahkan data pelanggan dan mobil ke dalam tabel, serta melakukan proses pembayaran untuk pelanggan yang telah memilih mobil. 
 
-### Fitur Utama
+###Fitur Utama
 
 1. **Manajemen Pelanggan**:
    - Menambahkan nama pelanggan dan memilih mobil yang ingin dibeli.
