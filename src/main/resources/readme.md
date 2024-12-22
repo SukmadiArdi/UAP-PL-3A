@@ -79,6 +79,3 @@ Program ini adalah aplikasi berbasis Java yang digunakan untuk mengelola data pe
 
 Jika ada pembaruan atau perbaikan yang perlu dilakukan pada program ini, Anda dapat melakukan kontribusi melalui pull request atau melaporkan masalah pada repositori.
 
-## Lisensi
-
-Program ini tersedia di bawah lisensi MIT.
