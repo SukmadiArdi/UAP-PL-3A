@@ -10,7 +10,8 @@ module main.uappl3a {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
+    requires java.desktop;
 
-    opens main.uappl3a to javafx.fxml;
-    exports main.uappl3a;
+    opens Controller to javafx.fxml;  // Keep this if needed for other controllers
+    exports Controller;               // Export the Controller package if needed
 }
